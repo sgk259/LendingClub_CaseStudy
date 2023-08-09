@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> An EDA on the Lending club provided data. In this case study, we apply the techniques of EDA using python,
+> An EDA analysis on the Lending club provided data. In this case study, we apply the techniques of EDA using python,
 > We will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 
